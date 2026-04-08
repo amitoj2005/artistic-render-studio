@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
 
 @tailwind base;
 @tailwind components;
@@ -37,10 +37,10 @@
   }
   body {
     @apply bg-background text-foreground;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
   h1, h2, h3 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
   code {
     font-family: 'JetBrains Mono', monospace;
