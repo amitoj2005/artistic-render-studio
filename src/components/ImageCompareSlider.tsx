@@ -85,6 +85,10 @@ const ImageCompareSlider = () => {
             Toon
           </span>
         </div>
+
+        <p className="mt-4 text-center text-sm italic text-muted-foreground">
+          This is just a very rudimentary example — no actual rendering is being done here.
+        </p>
       </div>
     </section>
   );
