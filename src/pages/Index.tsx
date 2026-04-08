@@ -15,7 +15,7 @@ const Index = () => {
       <ScheduleSection />
       <ResourcesSection />
       <footer className="border-t border-border py-8 text-center text-sm text-muted-foreground">
-        UC Berkeley · CS 184 · Spring 2025
+        UC Berkeley · CS 184 · Spring 2026
       </footer>
     </div>
   );
